@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>My DevOps Project</title>
+</head>
+<body>
+<h1>Hello from Jenkins + Docker Pipeline</h1>
+</body>
+</html>
